@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+/* ================================================================================ *\
+   Login
+\* ================================================================================ */
+body{background:#fff url(../images/bg.png);}
+header{height:120px; line-height:120px; padding-left:200px; background:url(../images/logo_sm.png) 60px 0 no-repeat;}
+
+.container{width:600px; margin:12% auto 2% auto; color:#fff; letter-spacing:1px; background-color:rgba(52, 73, 94, 0.9); box-shadow:4px 4px 0 rgba(0, 0, 0, 0.1); border-radius:8px;}
+.container h1{padding-top:50px; font-size:32px; text-shadow:2px 2px 0 rgba(0, 0, 0, 0.3);}
+.container small{display:inline-block; padding:4px 8px; color:#3b4043; font-size:12px; text-shadow:none; background-color:#eee; border-radius:8px; box-shadow:1px 2px 0 rgba(0, 0, 0, 0.6);}
+
+.login-table{width:400px; margin:0 auto; padding:32px 0; line-height:34px; font-size:14px;}
+.login-table .form-control{height:34px; border:none;}
